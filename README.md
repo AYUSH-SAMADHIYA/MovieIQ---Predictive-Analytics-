@@ -57,6 +57,5 @@ Make sure the project includes a `movies.csv` file with the following columns:<b
 ` budget, revenue, popularity, runtime, vote_average, title, genres`
 <br>
 ## 👨‍💻 Author<br>
-### Vedika Sharma<br>
-#### Final Year AI&DS Student | Aspiring Data Analyst<br>
+### Gajnesh Sharma<br>
 
