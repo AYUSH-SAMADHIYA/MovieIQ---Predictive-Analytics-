@@ -42,7 +42,6 @@ An interactive Streamlit dashboard designed to analyze and predict the financial
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/AYUSH-SAMADHIYA/MovieIQ---Predictive-Analytics
- 
 ```
 ### 2. Install dependencies
 ```bash
