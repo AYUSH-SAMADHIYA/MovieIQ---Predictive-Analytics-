@@ -1,12 +1,17 @@
 # 🎬 MovieIQ - Predictive Analytics on Film Success
 
-An interactive Streamlit dashboard that analyzes and predicts the success of movies using key performance indicators such as budget, revenue, popularity, runtime, and average votes. Built with Python, this project leverages data visualization, statistical testing, and machine learning (Random Forest) for movie performance insights.
+An interactive Streamlit dashboard designed to analyze and predict the financial success of movies. Using key metrics like budget, revenue, and audience scores, it offers insights through data visualization, statistical analysis, and a Random Forest machine learning model.
 
 ---
 
-## 🌐 Live Demo
+## 📷 Screenshots
 
-🚀 [Click here to try the live app](https://movieiq-predictive-analytics-on-film-success-hkz386d9xzv5mygjz.streamlit.app/)
+| Dashboard Overview | 
+|--------------------|
+| ![Dashboard](dashboard1.png) |
+| ![Dashboard](dashboard2.png) |
+| ![Dashboard](dashboard3.png) |
+| ![Dashboard](dashboard4.png) |
 
 ---
 
@@ -32,22 +37,11 @@ An interactive Streamlit dashboard that analyzes and predicts the success of mov
 
 ---
 
-## 📷 Screenshots
-
-| Dashboard Overview | Statistical Tests |
-|--------------------|-------------------|
-| ![Dashboard](assets/dashboard.png) | ![Tests](assets/stats_tests.png) |
-
-> Add more screenshots to the `assets/` folder and reference them similarly.
-
----
-
 ## 🚀 Run Locally
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nv2105/MovieIQ-Predictive-Analytics-on-Film-Success.git
-cd MovieIQ-Predictive-Analytics-on-Film-Success
+git clone https://github.com/vedikasharma2801/-Movie-Success-Prediction-Dashboard
  
 ```
 ### 2. Install dependencies
@@ -63,9 +57,6 @@ Make sure the project includes a `movies.csv` file with the following columns:<b
 ` budget, revenue, popularity, runtime, vote_average, title, genres`
 <br>
 ## 👨‍💻 Author<br>
-### Naman Vora<br>
-#### Final Year CSE Student | Aspiring Data Analyst<br>
-📫 [LinkedIn](www.linkedin.com/in/namanvora21) • [GitHub](https://github.com/nv2105)
+### Vedika Sharma<br>
+#### Final Year AI&DS Student | Aspiring Data Analyst<br>
 
-## 📄 License
-This project is open source and available under the [MIT License.](https://mit-license.org/) 
